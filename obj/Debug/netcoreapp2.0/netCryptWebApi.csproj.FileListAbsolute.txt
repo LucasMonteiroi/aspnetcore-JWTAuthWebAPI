@@ -1,0 +1,10 @@
+C:\Sandbox\netCryptWebApi\obj\Debug\netcoreapp2.0\netCryptWebApi.csproj.CoreCompileInputs.cache
+C:\Sandbox\netCryptWebApi\obj\Debug\netcoreapp2.0\netCryptWebApi.AssemblyInfoInputs.cache
+C:\Sandbox\netCryptWebApi\obj\Debug\netcoreapp2.0\netCryptWebApi.AssemblyInfo.cs
+C:\Sandbox\netCryptWebApi\bin\Debug\netcoreapp2.0\netCryptWebApi.deps.json
+C:\Sandbox\netCryptWebApi\bin\Debug\netcoreapp2.0\netCryptWebApi.runtimeconfig.json
+C:\Sandbox\netCryptWebApi\bin\Debug\netcoreapp2.0\netCryptWebApi.runtimeconfig.dev.json
+C:\Sandbox\netCryptWebApi\bin\Debug\netcoreapp2.0\netCryptWebApi.dll
+C:\Sandbox\netCryptWebApi\bin\Debug\netcoreapp2.0\netCryptWebApi.pdb
+C:\Sandbox\netCryptWebApi\obj\Debug\netcoreapp2.0\netCryptWebApi.dll
+C:\Sandbox\netCryptWebApi\obj\Debug\netcoreapp2.0\netCryptWebApi.pdb
